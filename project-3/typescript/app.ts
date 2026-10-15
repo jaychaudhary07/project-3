@@ -169,7 +169,7 @@ document.write("the array is = " + num8 + "<br>");
 document.write("<h3>OUTPUT</h3>"); 
 
 let result1: string[] = num8.filter(function(value: string) {
-    return value.length >= 8;
+    return value.length <= 8;
 });
 
 
