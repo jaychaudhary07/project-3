@@ -1,4 +1,4 @@
-In my project 4, I learned about various JavaScript array methods and the basic fundamentals of functions.
+In my project 3, I learned about various JavaScript array methods and the basic fundamentals of functions.
 
 First, I learned array methods such as push(), pop(), shift(), unshift(), slice(), splice(), map(), filter(), forEach(), sort(), and reverse(). These methods help us add, remove, search, sort, and modify array elements efficiently.
 
